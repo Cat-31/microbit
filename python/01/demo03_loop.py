@@ -2,7 +2,6 @@
 from microbit import display
 from microbit import sleep
 
-
 # 循环
 for i in range(1, 3):
     display.show(i)
