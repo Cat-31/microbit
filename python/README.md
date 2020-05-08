@@ -3,4 +3,6 @@
 
 文章列表：
 
-[01 学Python：顺序、循环和分支](https://mp.weixin.qq.com/s?__biz=MzIzNTE1MjM3Mw==&tempkey=MTA1Ml9SS0t0Uk1pbk92dG1UWGJ0Q0c4cXV0bS16MEVJVkdDT2J6Q0xFVjNwZ3FoUFBNdl9JRFZNMXo1emhrQTZ3SmZkalJyS2J6N25QSUFpS2prXzNMZWxLV1dyN3lLakI3TnBHM3JaeVp1emduQkg1QzVuc1lWZnRabU1BVm1YOEx6SHFTdEtITDlkWmc3cEJEYUloSnVNa1B3aUNCRy1QWk5URTc2aFN3fn4%3D&chksm=68ea32e65f9dbbf0d9dd1ae8fe6ff039bf3c572713a5db57d0ce7409489682871887955be371#rd)
+[01 学Python：顺序、循环和分支](http://mp.weixin.qq.com/s?__biz=MzIzNTE1MjM3Mw==&mid=2247484560&idx=1&sn=7f31cdfc6fa5ff86d783d194aaa30ac9&chksm=e8ea320adf9dbb1ce9f37811310c013d6c6784214731fce6fbfbca2f4a11429660cb7e07a405&token=1859196039&lang=zh_CN#rd)
+
+[02 用python控制micro:bit的输入输出](https://mp.weixin.qq.com/s?__biz=MzIzNTE1MjM3Mw==&mid=2247484570&idx=1&sn=dd807ccf09ae15a5457b42b39f832ca8&chksm=e8ea3200df9dbb16da820e7b162d059a19d7529a6893746e713bdf801adceaf5d6dbf78e1022&token=1859196039&lang=zh_CN#rd)
